@@ -1,5 +1,6 @@
 name = input()
 num = input()
+major = input()
 
-print(name + " " + num)
+print(name + " " + num + " " + major)
 
